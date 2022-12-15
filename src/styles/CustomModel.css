@@ -63,7 +63,7 @@
 /* New Mobile Phones Wide Screens */
 @media (max-width: 428px) {
     .card-wrapper {
-        padding: 35vh 10%;
+        padding: 30vh 10%;
     }
     .card-wrapper .card-title {
         font-size: 1.25rem;

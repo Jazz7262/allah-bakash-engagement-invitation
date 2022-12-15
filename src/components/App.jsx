@@ -30,8 +30,11 @@ function App() {
         });
 
         $(window).blur(() => {
-            let audioBtn = document.getElementById("play-btn");
-            audioBtn.click();
+            let audio = document.getElementById("audio");
+            if (!audio.paused) {
+                let audioBtn = document.getElementById("play-btn");
+                audioBtn.click();
+            }
         });
     }, []);
 

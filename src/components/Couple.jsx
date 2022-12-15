@@ -140,11 +140,13 @@ function Couple() {
                             Grand S/O{" "}
                             <strong>Khanbu Mehboob Sahaab(Late),</strong>
                             <br /> Qateeb -o- Imaam, Masoom Sahaab Masjid,
+                            Adoni,
                         </p>
                         <p className="mt-2">
                             S/O{" "}
                             <strong>Khanbu Abdul Aleem Sahaab(Late),</strong>
                             <br /> Qateeb -o- Imaam, Masoom Sahaab Masjid,
+                            Adoni.
                         </p>
                     </div>
                 </div>

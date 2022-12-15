@@ -233,7 +233,7 @@ function Couple() {
                             {/* <sub>MBA.,</sub> */}
                         </h3>
                         <p className="mt-2">
-                            D/O <strong>Muhammad Hassan</strong>
+                            D/O <strong>Muhammad Hassan Sahaab,</strong>
                         </p>
                         <p className="mt-2">
                             Bandihatti Auto Circle, Cowl Bazaar,

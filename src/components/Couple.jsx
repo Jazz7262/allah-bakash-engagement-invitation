@@ -138,16 +138,12 @@ function Couple() {
                         </p>
                         <p className="mt-2">
                             Grand S/O{" "}
-                            <strong>
-                                Allama Haafiz Khanbu Mehboob Sahaab(Late),
-                            </strong>
+                            <strong>Khanbu Mehboob Sahaab(Late),</strong>
                             <br /> Qateeb -o- Imaam, Masoom Sahaab Masjid,
                         </p>
                         <p className="mt-2">
                             S/O{" "}
-                            <strong>
-                                Allama Haafiz Khanbu Abdul Aleem Sahaab(Late),
-                            </strong>
+                            <strong>Khanbu Abdul Aleem Sahaab(Late),</strong>
                             <br /> Qateeb -o- Imaam, Masoom Sahaab Masjid,
                         </p>
                     </div>

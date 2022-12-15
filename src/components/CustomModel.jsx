@@ -57,7 +57,7 @@ function CustomModel() {
                     />
                     <h4>From:</h4>
                     <h4 className="invitor-name mb-5">
-                        Mr. & Mrs. P. Shaikh Sha Vali Sahab
+                        Mrs. Khanbu Abdul Aleem
                     </h4>
                     <button className="btn btn-primary" onClick={handleClick}>
                         Open
